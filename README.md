@@ -1,5 +1,7 @@
 # ArasInnovator-server-enforce-required-fields
 
+## Aras Innovator Version 12.0 SP6
+
 ## Description
 This project is an example of an easy and flexible way to enforce a required field from a server event, such as onBeforeAdd or onBeforeUpdate events. Since this is such a common usecase when developing on Aras I figured it would be nice to have a uniform way to always replicate.
 
